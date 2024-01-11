@@ -4,8 +4,7 @@ This project focuses on accurately categorizing the grade of a particular type o
 The strategy involves exploring possible dimensionality reduction methods, identifying the most effective model from a range of classifiers and enhancing its performance through various techniques, such as grid search and other optimization methods.
 
 ## What are gliomas? 
-Gliomas are tumors of the glial cells of the central nervous system. 
-
+Gliomas are tumors of the glial cells of the central nervous system. Based on cytological characteristics such as cellular anaplasia, nuclear atypia, cell density, mitoses, microvascular proliferation and necrosis, gliomas are divided into the more treatable low-grade gliomas (LGGs) or the highly invasive high-grade gliomas (HGGs). Prognosis and life quality following diagnosis are vastly different between LGGs and HGGs. 
  Table 1 illustrates glioma types and grades, as per the World's Health Organization definitions:
 
 <p align="center">
