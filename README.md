@@ -41,7 +41,8 @@ gene by gene description
  
 - **NOTCH1**: This gene codes for the Notch1 receptor protein, whose successful ligand bindings allows for normal tissue development. Both excessive activation and inactivation of Notch1 signalling can lead to tumor development.
   
-- **BCOR**:
+- **BCOR**: This gene codes for the BCL6 corepressor, which enhances transcriptional repression and is involved in cell differentiation, stem cell pluripotency maintenance and body structure development. Mutations are common in various types of malignant tumors.
+- 
 - **CSMD3**:
 - **SMARCA4**:
 - **GRIN2A**:
@@ -56,3 +57,5 @@ gene by gene description
 ##REFERENCES 
 
 https://www.mycancergenome.org/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6595546/
