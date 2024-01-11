@@ -28,17 +28,20 @@ gene by gene description
   
 - **CIC**: This gene codes for the Capicua Transcriptional Repressor protein, which is responsible for preventing the activation of genes downstream of receptor tyrosine kinase (RTK)/Ras/ERK signaling. This tumor suppressing function is halted when the CIC gene is mutated.
   
-- **MUC16**: This gene encodes for the glycoprotein CA125, which is an ovarian cancer-related tumor marker. Mutations on this gene contribute to tumorogenesis and metastatic invasion.
+- **MUC16**: This gene encodes for the glycoprotein CA125, which is an ovarian cancer-related tumor marker. Aberrant expressions of this gene contribute to tumorogenesis and metastatic invasion.
   
-- **PIK3CA**: This gene is involved in cell survival, migration and transfer due to its encoding of the p110 alpha (p110α) protein, which helps phosphorylate specific signaling molecules. The unregulated signaling that results from PIK3CA mutations can lead to uncontrolled cell proliferation and tumor genesis.
+- **PIK3CA**: This gene is involved in cell survival, migration and transfer due to its encoding of the p110 alpha (p110α) protein, which helps phosphorylate specific signaling molecules. The unregulated signaling that results from PIK3CA mutations can lead to uncontrolled cell proliferation and development of malignant tissues.
   
 - **NF1**: This tumor suppressing gene codes for the neurofibromin protein, which prevents cell overproliferation by inactivating Ras proteins. NF1 mutations decrease overall amounts of neurofibromin, thus halting its negative regulatory function on Ras proteins.
   
 - **PIK3R1**: This gene encodes a subunit of the phosphatidylinositol 3-kinase (PI3K), whose function is to regulate the kinase's activity during phosphorylation of signalling molecules. Like for the PIK3CA gene, the role of the subunit in question is important for cell proliferation, migration and survival. Gain of function mutations on the PIK3R1 gene disrupt the subunit's ability to regulate the kinase, leading to uncontrolled signalling.
   
-- **FUBP1**:
-- **RB1**:
-- **NOTCH1**:
+- **FUBP1**: 
+  
+- **RB1**: Responsible for coding the tumor suppressing pRB protein, this gene helps ensure normal levels of cell division. Mutations can lead to tumorogenic cell proliferation.
+ 
+- **NOTCH1**: This gene codes for the Notch1 receptor protein, whose successful ligand bindings allows for normal tissue development. Both excessive activation and inactivation of Notch1 signalling can lead to tumor development.
+  
 - **BCOR**:
 - **CSMD3**:
 - **SMARCA4**:
