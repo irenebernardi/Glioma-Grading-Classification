@@ -32,20 +32,20 @@ gene by gene description
   
 - **PIK3CA**: This gene is involved in cell survival, migration and transfer due to its encoding of the p110 alpha (p110α) protein, which helps phosphorylate specific signaling molecules. The unregulated signaling that results from PIK3CA mutations can lead to uncontrolled cell proliferation and tumor genesis.
   
-- **NF1** This tumor suppressing gene codes for the neurofibromin protein, which prevents cell overproliferation by inactivating Ras proteins. NF1 mutations decrease overall amounts of neurofibromin, thus halting its negative regulatory function on Ras proteins.
+- **NF1**: This tumor suppressing gene codes for the neurofibromin protein, which prevents cell overproliferation by inactivating Ras proteins. NF1 mutations decrease overall amounts of neurofibromin, thus halting its negative regulatory function on Ras proteins.
   
-- **PIK3R1**> This gene encodes a subunit of the phosphatidylinositol 3-kinase (PI3K), whose function is to regulate the kinase's activity during phosphorylation of signalling molecules. Like for the PIK3CA gene, the role of the subunit in question is important for cell proliferation, migration and survival. Gain of function mutations on the PIK3R1 gene disrupt the subunit's ability to regulate the kinase, leading to uncontrolled signalling.
+- **PIK3R1**: This gene encodes a subunit of the phosphatidylinositol 3-kinase (PI3K), whose function is to regulate the kinase's activity during phosphorylation of signalling molecules. Like for the PIK3CA gene, the role of the subunit in question is important for cell proliferation, migration and survival. Gain of function mutations on the PIK3R1 gene disrupt the subunit's ability to regulate the kinase, leading to uncontrolled signalling.
   
-- **FUBP1**
-- **RB1**
-- **NOTCH1**
-- **BCOR**
-- **CSMD3**
-- **SMARCA4**
-- **GRIN2A**
-- **IDH2**
-- **FAT4**
-- **PDGFRA**
+- **FUBP1**:
+- **RB1**:
+- **NOTCH1**:
+- **BCOR**:
+- **CSMD3**:
+- **SMARCA4**:
+- **GRIN2A**:
+- **IDH2**:
+- **FAT4**:
+- **PDGFRA**:
 ```
 
 
