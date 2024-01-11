@@ -16,25 +16,26 @@ Gliomas are tumors of the glial cells of the central nervous system.
 ## Dataset description 
 gene by gene description 
 
-**IDH1**: this gene provides instructions to make the isocitrate dehydrogenase 1 enzyme, ultimately protecting cells from oxidative stress. IDH1 mutations can lead to onco-metabolite 2HG production, which contributes to glioma formation. 
+- **IDH1**: this gene provides instructions to make the isocitrate dehydrogenase 1 enzyme, ultimately protecting cells from oxidative stress. IDH1 mutations can lead to onco-metabolite 2HG production, which contributes to glioma formation. 
 
-**TP53**: this gene provides instructions to create a tumor suppressor protein called p53. Protein p53 regulates cell division and prevents excessive and uncontrolled cell proliferation. Mutations on the TP53 gene can lead to dysfunctional activity of the p53 protein, thus disrupting its tumor suppressing role.
+- **TP53**: this gene provides instructions to create a tumor suppressor protein called p53. Protein p53 regulates cell division and prevents excessive and uncontrolled cell proliferation. Mutations on the TP53 gene can lead to dysfunctional activity of the p53 protein, thus disrupting its tumor suppressing role.
 
-**ATRX**: this gene plays an important role in chromatin remodeling, thus regulating expression of other genes and preventing chromosomal instability. Its exact role in tumor development is not entirely clear. 
+- **ATRX**: this gene plays an important role in chromatin remodeling, thus regulating expression of other genes and preventing chromosomal instability. Its exact role in tumor development is not entirely clear. 
 
-**PTEN**: This gene encodes for a protein phosphatase that promotes cell survival and genomic stability. Its tumor suppressing properties derive from the negative regulation of the PI3K/AKT signaling pathway, which can go awry in case of mutations. 
-
-
-
-
-
-
-- **EGFR**
-- **CIC**
-- **MUC16**
-- **PIK3CA**
-- **NF1**
-- **PIK3R1**
+- **PTEN**: This gene encodes for a protein phosphatase that promotes cell survival and genomic stability. Its tumor suppressing properties derive from the negative regulation of the PI3K/AKT signaling pathway, which can go awry in case of mutations.
+  
+- **EGFR**: This gene codes for the epidermal growth factor receptor protein, thus regulating epithelial tissue development. Its mutation can cause overproliferation and tumorogenesis.
+  
+- **CIC**: This gene codes for the Capicua Transcriptional Repressor protein, which is responsible for preventing the activation of genes downstream of receptor tyrosine kinase (RTK)/Ras/ERK signaling. This tumor suppressing function is halted when the CIC gene is mutated.
+  
+- **MUC16**: This gene encodes for the glycoprotein CA125, which is an ovarian cancer-related tumor marker. Mutations on this gene contribute to tumorogenesis and metastatic invasion.
+  
+- **PIK3CA**: This gene is involved in cell survival, migration and transfer due to its encoding of the p110 alpha (p110α) protein, which helps phosphorylate specific signaling molecules. The unregulated signaling that results from PIK3CA mutations can lead to uncontrolled cell proliferation and tumor genesis.
+  
+- **NF1** This tumor suppressing gene codes for the neurofibromin protein, which prevents cell overproliferation by inactivating Ras proteins. NF1 mutations decrease overall amounts of neurofibromin, thus halting its negative regulatory function on Ras proteins.
+  
+- **PIK3R1**> This gene encodes a subunit of the phosphatidylinositol 3-kinase (PI3K), whose function is to regulate the kinase's activity during phosphorylation of signalling molecules. Like for the PIK3CA gene, the role of the subunit in question is important for cell proliferation, migration and survival. Gain of function mutations on the PIK3R1 gene disrupt the subunit's ability to regulate the kinase, leading to uncontrolled signalling.
+  
 - **FUBP1**
 - **RB1**
 - **NOTCH1**
