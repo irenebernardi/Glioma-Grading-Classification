@@ -21,7 +21,7 @@ This project utilizes several machine learning models in order to find the one y
  - AdaBoost.
 
 
-Initially, Multiple Correspondance Analysis (MCA) was used as a means for features selection. Then, the two top performing models were selected for improvement via Stratified Cross Validation GridSearch and RandomSearch. 
+After data normalization and cleaning, Multiple Correspondance Analysis (MCA) was used as a means for features selection. Then, the two top performing models were selected for improvement via Stratified Cross Validation GridSearch and RandomSearch. 
 
 ####INSERT FINAL ACCURACY AND RECALL ####
 
