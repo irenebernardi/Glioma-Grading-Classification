@@ -12,10 +12,11 @@ Gliomas are tumors of the glial cells of the central nervous system. Based on cy
 </p>
 <p align="center"><em>Table 1</em></p>
 
-## Dataset description 
-gene by gene description 
+## The TGCA Dataset
 
-- **IDH1**: this gene provides instructions to make the isocitrate dehydrogenase 1 enzyme, ultimately protecting cells from oxidative stress. IDH1 mutations can lead to onco-metabolite 2HG production, which contributes to glioma formation. 
+Below is a short description of the function of each gene in the TGCA dataset. 
+
+- **IDH1**: this gene provides instructions to make the isocitrate dehydrogenase 1 enzyme, ultimately protecting cells from oxidative stress. IDH1 mutations can lead to onco-metabolite 2HG production, which contributes to cancer formation, especially gliomas. 
 
 - **TP53**: this gene provides instructions to create a tumor suppressor protein called p53. Protein p53 regulates cell division and prevents excessive and uncontrolled cell proliferation. Mutations on the TP53 gene can lead to dysfunctional activity of the p53 protein, thus disrupting its tumor suppressing role.
 
@@ -42,13 +43,19 @@ gene by gene description
 - **NOTCH1**: This gene codes for the Notch1 receptor protein, whose successful ligand bindings allows for normal tissue development. Both excessive activation and inactivation of Notch1 signalling can lead to tumor development.
   
 - **BCOR**: This gene codes for the BCL6 corepressor, which enhances transcriptional repression and is involved in cell differentiation, stem cell pluripotency maintenance and body structure development. Mutations are common in various types of malignant tumors.
-- 
-- **CSMD3**:
-- **SMARCA4**:
-- **GRIN2A**:
-- **IDH2**:
-- **FAT4**:
-- **PDGFRA**:
+ 
+- **CSMD3**: Although little research is available on this gene's function, CSMD3 is thought to be involved in dendrite development and is generally highly associated with Tumor Mutation Burden (TMB).
+  
+- **SMARCA4**: This gene codes for the BRG1 subunit of the SWI/SNF protein complexes, which are involved in chromatin remodeling. Chromatin remodeling regulates gene expression and its disruption is linked tumorogenesis.
+  
+- **GRIN2A**: This gene encodes the GluN2A protein, which is a subset of the NMDA receptors in the brain. GRIN2A mutations can throw off ionotropic glutamate receptor signalling, which is a phenomenon occurring in malignant tissues.
+  
+- **IDH2**: This gene encodes for the NADP(+)-dependent isocitrate dehydrogenase, which is relevant for intermediary metabolism and energy production. Like for IDH1, mutations on the IDH2 genes disrupt its usual catalytic activity, thus leading to tumorogenis, especially in glial cells of the CNS.
+  
+ - **FAT4**: Encoding the FAT tumor suppressor homolog 4 protein, this gene helps regulating cell proliferation. Thus, mutations lead to uncontrolled cell division.
+  
+ - **PDGFRA**: This gene codes for a receptor termed the Platelet-derived growth factor receptor A, which is a tyrosine kinase receptor. Mutations are linked to idiopathic hypereosinophilic syndrome as well as a variety of cancers, including gliomas.
+  
 ```
 
 
@@ -59,3 +66,5 @@ gene by gene description
 https://www.mycancergenome.org/
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6595546/
+
+https://www.ncbi.nlm.nih.gov/gene/114788
