@@ -12,6 +12,21 @@ Gliomas are tumors of the glial cells of the central nervous system. Based on cy
 </p>
 <p align="center"><em>Table 1</em></p>
 
+## The Learning task 
+
+This project utilizes several machine learning models in order to find the one yielding the best classification results: 
+ - Logistic Regression;
+ - Decision Trees;
+ - Random Forest;
+ - AdaBoost.
+
+
+Initially, Multiple Correspondance Analysis (MCA) was used as a means for features selection. Then, the two top performing models were selected for improvement via Stratified Cross Validation GridSearch and RandomSearch. 
+
+####INSERT FINAL ACCURACY AND RECALL ####
+
+
+
 ## The TGCA Dataset
 
 Below is a short description of the function of each gene in the TGCA dataset. 
@@ -36,7 +51,7 @@ Below is a short description of the function of each gene in the TGCA dataset.
   
 - **PIK3R1**: This gene encodes a subunit of the phosphatidylinositol 3-kinase (PI3K), whose function is to regulate the kinase's activity during phosphorylation of signalling molecules. Like for the PIK3CA gene, the role of the subunit in question is important for cell proliferation, migration and survival. Gain of function mutations on the PIK3R1 gene disrupt the subunit's ability to regulate the kinase, leading to uncontrolled signalling.
   
-- **FUBP1**: 
+- **FUBP1**: This gene codes for a a single-stranded DNA and RNA binding protein which controls transcription and translation. In some cases, it can act as a tumor suppressor gene, thus mutations can lead to uncontrolled cell growth. In other cases, however, this gene is thought to promote tumor development.
   
 - **RB1**: Responsible for coding the tumor suppressing pRB protein, this gene helps ensure normal levels of cell division. Mutations can lead to tumorogenic cell proliferation.
  
