@@ -12,6 +12,9 @@ Gliomas are tumors of the glial cells of the central nervous system. Based on cy
 </p>
 <p align="center"><em>Table 1</em></p>
 
+
+## Molecular differences between LGGs and HGGs
+
 ## The Learning task 
 
 This project utilizes several machine learning models in order to find the one yielding the best classification results: 
