@@ -12,7 +12,7 @@ Gliomas are tumors of the glial cells of the central nervous system. Based on cy
 <p align="center">
   <img src="https://github.com/irenebernardi/Glioma-Grading-Classification/blob/main/WHO_glioma_types.png" alt="Glioma Types">
 </p>
-<p align="center"><em>Table 1</em></p>
+<p align="center"><em>Table 1: WHO Glioma Types and Grade Classification</em></p>
 
 
 ## Molecular differences between LGGs and HGGs
