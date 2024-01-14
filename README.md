@@ -3,6 +3,8 @@
 This project focuses on accurately categorizing the grade of a particular type of brain tumor, specifically gliomas. To do so, we use the dataset provided by [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga). The dataset utilized is sourced from The Cancer Genome Atlas (TCGA). 
 The strategy involves exploring possible dimensionality reduction methods, identifying the most effective model from a range of classifiers and enhancing its performance through various techniques, such as grid search and other optimization methods.
 
+For more information, find the project's Final Report [here](https://docs.google.com/document/d/1WxLBC6T_l1TTZhtdoD_HsKLFNC4JgfH9i8zQkEs4j6g/edit).
+
 ## What are gliomas? 
 Gliomas are tumors of the glial cells of the central nervous system. Based on cytological characteristics such as cellular anaplasia, nuclear atypia, cell density, mitoses, microvascular proliferation and necrosis, gliomas are divided into the more treatable low-grade gliomas (LGGs) or the highly invasive high-grade gliomas (HGGs). Prognosis and life quality following diagnosis are vastly different between LGGs and HGGs. 
  Table 1 illustrates glioma types and grades, as per the World's Health Organization definitions:
@@ -10,7 +12,7 @@ Gliomas are tumors of the glial cells of the central nervous system. Based on cy
 <p align="center">
   <img src="https://github.com/irenebernardi/Glioma-Grading-Classification/blob/main/WHO_glioma_types.png" alt="Glioma Types">
 </p>
-<p align="center"><em>Table 1</em></p>
+<p align="center"><em>Table 1: WHO Glioma Types and Grade Classification</em></p>
 
 
 ## Molecular differences between LGGs and HGGs
