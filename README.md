@@ -87,9 +87,11 @@ Below is a short description of the function of each gene in the TGCA dataset.
   
 
 
-###References
+## References
 
 Molinaro, A. M., Taylor, J. W., Wiencke, J. K., Wrensch, M. R. (2019). Genetic and molecular epidemiology of adult diffuse glioma. Nature Reviews Neurology, 15(7), 405–417. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7014190/
+
+National Cancer Institute (NCI). The Cancer Genome Atlas (TCGA). Retrieved from https://www.cancer.gov/ccg/research/genome-sequencing/tcga
 
 Ostrom, Q. T., Gittleman, H., Truitt, G., Boscia, A., Kruchko, C., Barnholtz-Sloan, J. S. (2020). CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2013–2017. Neuro-Oncology, 22(12), iv1–iv96. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7727433/
 
