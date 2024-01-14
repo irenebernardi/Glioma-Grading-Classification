@@ -85,15 +85,17 @@ Below is a short description of the function of each gene in the TGCA dataset.
   
  - **PDGFRA**: This gene codes for a receptor termed the Platelet-derived growth factor receptor A, which is a tyrosine kinase receptor. Mutations are linked to idiopathic hypereosinophilic syndrome as well as a variety of cancers, including gliomas.
   
-```
 
 
+###References
 
+Molinaro, A. M., Taylor, J. W., Wiencke, J. K., Wrensch, M. R. (2019). Genetic and molecular epidemiology of adult diffuse glioma. Nature Reviews Neurology, 15(7), 405–417. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7014190/
 
-##REFERENCES 
+Ostrom, Q. T., Gittleman, H., Truitt, G., Boscia, A., Kruchko, C., Barnholtz-Sloan, J. S. (2020). CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2013–2017. Neuro-Oncology, 22(12), iv1–iv96. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7727433/
 
-https://www.mycancergenome.org/
+Stupp, R., Mason, W. P., van den Bent, M. J., Weller, M., Fisher, B., Taphoorn, M. J. B. & Mirimanoff, R. O. (2005). Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. New England Journal of Medicine, 352(10), 987–996. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9826661/
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6595546/
+Tasci, E., Zhuge, Y., Kaur, H., Camphausen, K., & Krauze, A. V. (2022). Hierarchical Voting-Based Feature Selection and Ensemble Learning Model Scheme for Glioma Grading with Clinical and Molecular Characteristics. International Journal of Molecular Sciences, 23(22), 14155.
 
-https://www.ncbi.nlm.nih.gov/gene/114788
+Trusheim, M. R., Berndt, E. R., Douglas, F. L. (2007). Stratified medicine: strategic and economic implications of combining drugs and clinical biomarkers. Nature Reviews Drug Discovery, 6(4), 287–293. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7014190/
+
