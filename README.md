@@ -1,7 +1,7 @@
 # Glioma-Grading-Classification
 
 This project focuses on accurately categorizing the grade of a particular type of brain tumor, specifically gliomas. To do so, we use the dataset provided by [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga). The dataset utilized is sourced from The Cancer Genome Atlas (TCGA). 
-The strategy involves exploring possible dimensionality reduction methods, identifying the most effective model from a range of classifiers and enhancing its performance through various techniques, such as grid search and other optimization methods.
+The strategy involves exploring possible dimensionality reduction methods, identifying the most effective model from a range of classifiers and enhancing its performance through various techniques, such as grid search and other hyperparameter optimization methods.
 
 For more information, find the project's Final Report [here](https://docs.google.com/document/d/1WxLBC6T_l1TTZhtdoD_HsKLFNC4JgfH9i8zQkEs4j6g/edit).
 
