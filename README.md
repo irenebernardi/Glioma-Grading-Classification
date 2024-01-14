@@ -15,10 +15,15 @@ Gliomas are tumors of the glial cells of the central nervous system. Based on cy
 <p align="center"><em>Table 1: WHO Glioma Types and Grade Classification</em></p>
 
 
-## Molecular differences between LGGs and HGGs
+## Molecular and clinical differences between LGGs and HGGs
 
-To be referenced:
+The mutations most relevant for glioma development occur on genes IDH1/2, TP53, ATRX, EGFR and PTEN. 
+Specifically, grade II and III gliomas are usually characterized by isocitrate
+Dehydrogenase (IDH) mutations, which are also seen in secondary Glioblastomas, which evolve from lower grade tumors. 
+On the other hand, IDH mutations are not present in primary Glioblastomas, which emerge spontaneously in patients with no prior history of glioma. In these cases, mutations usually occur on the proto-oncogene EGFR and on the phosphatase and tensin homologue PTEN.
+Concerning the clinical features of age and gender,  it should be noted that GBM mostly occurs in people over 40 years old (referencethis https://www.mdpi.com/2072-6694/14/10/2412) whereas LGG tend to affect younger populations (https://www.nature.com/articles/d41591-023-00054-2). Across ages, males tend to be more affected than women, but the exact molecular reasons for gender differences in glioma development are unclear. This gender difference is more pronounced for GBM than for LGG. 
 
+TODO: reference below:
 IDH mutation testing is a valuable diagnostic, prognostic and predictive biomarker for the management of patients with glial tumours. IDH1 and IDH2 mutations occur in a mutually exclusive manner in nearly 80% of grades II and III oligodendrogliomas and astrocytomas and secondary glioblastomas (i.e. glioblastomas that had progressed from lower grade gliomas) 10,11,12,3,13. Conversely, IDH mutations are found in only 6% of patients with primary glioblastoma. Molecular classification of gliomas divides these malignancies primarily into IDH-mutant and IDH-wild tumours, the latter being mainly represented by World Health Organization (WHO) grade IV primary glioblastomas 14. The presence of IDH mutations defines a distinct tumour subset with specific clinical and molecular characteristics, suggesting that these predominantly grades II and III tumours have distinct pathogenic origins from that of primary IDH-wild type glioblastomas 10,11,12,3. In gliomas, clinical features that have been associated with the presence of IDH mutation include younger age at presentation, tendency for frontal lobe location, more frequent non-enhancing tumour infiltrative component and more favourable outcome.
 
 ## The Learning task 
