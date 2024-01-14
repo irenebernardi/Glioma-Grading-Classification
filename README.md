@@ -5,7 +5,7 @@ The strategy involves exploring possible dimensionality reduction methods, ident
 
 For more information, find the project's Final Report [here](https://docs.google.com/document/d/1WxLBC6T_l1TTZhtdoD_HsKLFNC4JgfH9i8zQkEs4j6g/edit).
 
-For a different approach to this classification task, please refer to the *Glioma Grading Clinical and Mutation Features* paper, available in the References section below. 
+For a different approach to this classification task, please refer to the *Glioma Grading Clinical and Mutation Features* paper by Tasci, E., Zhuge, Y., Kaur, H., Camphausen, K., & Krauze, A. V. (2022), available in the References section below. 
 
 ## What are gliomas? 
 Gliomas are tumors of the glial cells of the central nervous system. Based on cytological characteristics such as cellular anaplasia, nuclear atypia, cell density, mitoses, microvascular proliferation and necrosis, gliomas are divided into the more treatable low-grade gliomas (LGGs) or the highly invasive high-grade gliomas (HGGs). Prognosis and life quality following diagnosis are vastly different between LGGs and HGGs. 
