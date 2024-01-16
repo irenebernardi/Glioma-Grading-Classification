@@ -3,7 +3,7 @@
 This project focuses on accurately categorizing the grade of a particular type of brain tumor, specifically gliomas. To do so, we use the dataset provided by [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga). The dataset utilized is sourced from The Cancer Genome Atlas (TCGA). 
 The strategy involves exploring possible dimensionality reduction methods, identifying the most effective model from a range of classifiers and enhancing its performance through various techniques, such as grid search and other hyperparameter optimization methods.
 
-For more information, find the project's Final Report [here](https://docs.google.com/document/d/1WxLBC6T_l1TTZhtdoD_HsKLFNC4JgfH9i8zQkEs4j6g/edit).
+For more information on the approach used for this learning task, find the project's Final Report [here](https://docs.google.com/document/d/1WxLBC6T_l1TTZhtdoD_HsKLFNC4JgfH9i8zQkEs4j6g/edit).
 
 For a different approach to this classification task, please refer to the *Glioma Grading Clinical and Mutation Features* paper by Tasci, E., Zhuge, Y., Kaur, H., Camphausen, K., & Krauze, A. V. (2022), available in the References section below. 
 
@@ -39,7 +39,16 @@ This project utilizes several machine learning models in order to find the one y
 
 After data normalization and cleaning, Multiple Correspondance Analysis (MCA) was used as a means for features selection. Then, the two top performing models were selected for improvement via Stratified Cross Validation GridSearch and RandomSearch. 
 
-####INSERT FINAL ACCURACY AND RECALL ####
+The final performance of our top two models is the following: 
+- Logistic Regression:
+  - Accuracy: 0.8611
+  - Recall (Sensitivity): 0.9182
+  - ROC AUC Score: 0.8675
+- AdaBoost:
+  - Accuracy: 0.8571
+  - Recall (Sensitivity): 0.8909
+  - ROC AUC Score: 0.8609
+
 
 
 
