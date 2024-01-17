@@ -18,7 +18,7 @@ Gliomas are tumors of the glial cells of the central nervous system. Based on cy
 
 
 ## Molecular and clinical differences between LGGs and HGGs
-
+### Molecular outlook 
 The mutations most relevant for glioma development occur on genes IDH1/2, TP53, ATRX, EGFR and PTEN. 
 Specifically, grade II and III gliomas are usually characterized by Isocitrate
 Dehydrogenase (IDH) mutations, also seen in secondary Glioblastomas, which evolve from lower grade tumors. Usually, IDH1 and IDH2 mutations are mutually exclusive.
@@ -29,7 +29,8 @@ Interestingly, about 80% of grades II and III oligodendrogliomas, astrocytomas, 
 
 The presence of IDH mutations delineates a distinct tumor subset with specific clinical and molecular characteristics, suggesting disparate pathogenic origins compared to primary IDH-wild type glioblastomas. Clinical features associated with IDH mutation in gliomas include a younger age at presentation, a tendency for frontal lobe location, a more frequent non-enhancing tumor infiltrative component, and a more favorable outcome.
 
-Concerning the clinical features of age and gender,  it should be noted that GBM mostly occurs in people over 40 years old (referencethis https://www.mdpi.com/2072-6694/14/10/2412) whereas LGG tend to affect younger populations (https://www.nature.com/articles/d41591-023-00054-2). Across ages, males tend to be more affected than women, but the exact molecular reasons for gender differences in glioma development are unclear. This gender difference is more pronounced for GBM than for LGG. 
+### Clinical outlook 
+Concerning the clinical features of age and gender,  it should be noted that GBM mostly occurs in people over 40 years old, whereas LGG tend to affect younger populations. Across ages, males tend to be more affected than women, but the exact molecular reasons for gender differences in glioma development are unclear. This gender difference is more pronounced for GBM than for LGG. 
 
 
 ## The Learning task 
@@ -101,9 +102,13 @@ Below is a short description of the function of each gene in the TGCA dataset.
 
 ## References
 
+Grochans S, Cybulska AM, Simińska D, Korbecki J, Kojder K, Chlubek D, Baranowska-Bosiacka I. Epidemiology of Glioblastoma Multiforme–Literature Review. Cancers. 2022; 14(10):2412. https://doi.org/10.3390/cancers14102412
+
 Molinaro, A. M., Taylor, J. W., Wiencke, J. K., Wrensch, M. R. (2019). Genetic and molecular epidemiology of adult diffuse glioma. Nature Reviews Neurology, 15(7), 405–417. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7014190/
 
 National Cancer Institute (NCI). The Cancer Genome Atlas (TCGA). Retrieved from https://www.cancer.gov/ccg/research/genome-sequencing/tcga
+
+O'Leary K. A new targeted therapy for low-grade glioma. Nat Med. 2023 Jun 12. doi: 10.1038/d41591-023-00054-2. Epub ahead of print. PMID: 37308794.
 
 Ostrom, Q. T., Gittleman, H., Truitt, G., Boscia, A., Kruchko, C., Barnholtz-Sloan, J. S. (2020). CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2013–2017. Neuro-Oncology, 22(12), iv1–iv96. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7727433/
 
