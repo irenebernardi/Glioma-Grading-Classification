@@ -7,6 +7,12 @@ For more information on the approach used for this learning task, find the proje
 
 For a different approach to this classification task, please refer to the *Glioma Grading Clinical and Mutation Features* paper by Tasci, E., Zhuge, Y., Kaur, H., Camphausen, K., & Krauze, A. V. (2022), available in the References section below. 
 
+## How to navigate the repository
+
+- "TCGA_Glioma_Grade_Classification.ipynb": this notebook contains the entire project, from data preprocessing, model selection, hyperparameter tuning, to the final results;
+- "TCGA_GBM_LGG_Mutations_all.csv": this file contains the raw, unprocessed data that represents the starting point for this project.
+
+
 ## What are gliomas? 
 Gliomas are tumors of the glial cells of the central nervous system. Based on cytological characteristics such as cellular anaplasia, nuclear atypia, cell density, mitoses, microvascular proliferation and necrosis, gliomas are divided into the more treatable low-grade gliomas (LGGs) or the highly invasive high-grade gliomas (HGGs). Prognosis and life quality following diagnosis are vastly different between LGGs and HGGs. 
  Table 1 illustrates glioma types and grades, as per the World's Health Organization definitions:
